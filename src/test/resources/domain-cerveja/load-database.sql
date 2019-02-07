@@ -1,0 +1,1 @@
+INSERT INTO modelo.cerveja (id, nome, id_tipo) VALUES (1,'Bud', 1);
